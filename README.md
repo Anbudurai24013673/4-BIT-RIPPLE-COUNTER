@@ -40,7 +40,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
  Developed by:ANBUDURAI A 
  
- RegisterNumber:24013673
+ RegisterNumber:212224230018
 
  module ripple_counter (
 ```
